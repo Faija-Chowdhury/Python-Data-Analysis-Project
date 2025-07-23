@@ -2,6 +2,17 @@
 A supermarket data analysis project using python, pandas, matplotlib, seaborn and jupyter notebooks in Anaconda.
 I started by exploring the dataset checking its shape, data types, and column names. Then, I moved on to clean the data by handling missing values and formatting inconsistencies to prepare it for analysis.
 
+# Project Highlights
+In this project, I addressed some self-defined analytical requirements using a dataset. The key metrics I calculated include:
+
+Total Sales – The overall revenue generated from all items sold.
+
+Average Sales – The average revenue per sale, offering insights into typical transaction value.
+
+Number of Items – The total count of distinct items sold.
+
+Average Rating – The average customer rating for the sold items, reflecting overall customer satisfaction.
+
 # Data Visualization Overview
 
 I worked with several charts in this projects to better understand the data and extract insights.
