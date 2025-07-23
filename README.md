@@ -17,7 +17,7 @@ In this project, I addressed some self-defined analytical requirements using a d
 
 I worked with several charts in this projects to better understand the data and extract insights.
 Here are charts the visualizations i created:
-# Sales by Fat content 
+# Sales by Fat content chart:
 
 <img width="334" height="251" alt="image" src="https://github.com/user-attachments/assets/fe697c5a-d67f-495c-ac4a-8fff3b65617a" />
 
@@ -43,7 +43,7 @@ I chose a bar chart because it's ideal for comparing categorical data like item 
 
 4. This chart played a key role in understanding which items drive revenue and where the business may need to focus improvement or promotional efforts.
 
-# Total Sales by item types:
+# Total Sales by item types chart:
 
  <img width="1370" height="654" alt="image" src="https://github.com/user-attachments/assets/bd5bd274-031f-4548-a052-dd13bd2bde4b" />
 
