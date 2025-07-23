@@ -5,13 +5,13 @@ I started by exploring the dataset checking its shape, data types, and column na
 # Project Highlights
 In this project, I addressed some self-defined analytical requirements using a dataset. The key metrics I calculated include:
 
-Total Sales – The overall revenue generated from all items sold.
+1. Total Sales – The overall revenue generated from all items sold.
 
-Average Sales – The average revenue per sale, offering insights into typical transaction value.
+2. Average Sales – The average revenue per sale, offering insights into typical transaction value.
 
-Number of Items – The total count of distinct items sold.
+3. Number of Items – The total count of distinct items sold.
 
-Average Rating – The average customer rating for the sold items, reflecting overall customer satisfaction.
+4. Average Rating – The average customer rating for the sold items, reflecting overall customer satisfaction.
 
 # Data Visualization Overview
 
